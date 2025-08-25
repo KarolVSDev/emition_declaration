@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "default": "frequency-declaration-system"
+  },
+  "targets": {
+    "frequency-declaration-system": {
+      "hosting": {
+        "target": "frequency-declaration-system"
+      }
+    }
+  }
+}
